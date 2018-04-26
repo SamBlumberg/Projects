@@ -1,0 +1,60 @@
+#
+Calender
+3
+Month_Day_Year_
+Calender_August_12_2017_
+Calender_May_17_1997_
+Calender_April_3_2012_
+#
+CSG
+3
+Course_StudentID_Grade_
+CSG_CS101_12345_A_
+CSG_CS101_67890_B_
+CSG_EE200_12345_C_
+CSG_EE200_22222_B+_
+CSG_CS101_33333_A-_
+CSG_PH100_67890_C+_
+#
+SNAP
+4
+StudentID_Name_Address_Phone_
+SNAP_12345_C. Brown_12 Apple St._555-1234_
+SNAP_67890_L. Van Pelt_34 Pear Ave._555-5678_
+SNAP_22222_P. Patty_56 Grape Blvd._555-9999_
+#
+CP
+2
+Course_Prerequisite_
+CP_CS101_CS100_
+CP_EE200_EE005_
+CP_EE200_CS100_
+CP_CS120_CS101_
+CP_CS121_CS120_
+CP_CS205_CS101_
+CP_CS206_CS121_
+CP_CS206_CS205_
+#
+CDH
+3
+Course_Day_Hour_
+CDH_CS101_M_9AM_
+CDH_CS101_W_9AM_
+CDH_CS101_F_9AM_
+CDH_EE200_Tu_10AM_
+CDH_EE200_W_1PM_
+CDH_EE200_Th_10AM_
+#
+CR
+2
+Course_Room_
+CR_CS101_Turing Aud._
+CR_EE200_25 Ohm Hall_
+CR_PH100_Newton Lab._
+#
+CR2
+2
+Course_Room_
+CR2_CS173_Turing Aud._
+CR2_EE200_25 Ohm Hall_
+CR2_WR273_Meliora 203_
